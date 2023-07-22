@@ -1,0 +1,15 @@
+D:\Phuong\Code\C#\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.exe
+D:\Phuong\Code\C#\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.deps.json
+D:\Phuong\Code\C#\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.runtimeconfig.json
+D:\Phuong\Code\C#\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.dll
+D:\Phuong\Code\C#\LearningC#\LearningC#\bin\Debug\net6.0\LearningC#.pdb
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.csproj.AssemblyReference.cache
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.AssemblyInfoInputs.cache
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.AssemblyInfo.cs
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.csproj.CoreCompileInputs.cache
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.dll
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\refint\LearningC#.dll
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.pdb
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\LearningC#.genruntimeconfig.cache
+D:\Phuong\Code\C#\LearningC#\LearningC#\obj\Debug\net6.0\ref\LearningC#.dll
